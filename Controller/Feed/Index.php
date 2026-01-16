@@ -89,7 +89,7 @@ class Index extends Action
         // In M2, proper way is returning resultJson.
         // If they want it to trigger download, we can set header.
 
-        // $this->getResponse()->setHeader('Content-Disposition', 'attachment; filename="export_' . $type . '_' . date('Y-m-d') . '.json"', true);
+        $this->getResponse()->setHeader('Content-Disposition', 'attachment; filename="export_' . $type . '_' . date('Y-m-d') . '.json"', true);
         // But JSON response often displayed in browser. Let's keep it simple JSON response unless needed.
 
         return $result->setData(['data' => $data]);
