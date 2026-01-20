@@ -1,4 +1,4 @@
-# Ovesio - Ecommerce Intelligence for Magento 2
+# Ovesio - Ecommerce Intelligence Module for Magento 2
 
 **Ovesio - Ecommerce Intelligence** empowers your Magento 2 store with advanced AI-driven insights, stock management forecasting, and strategic consulting. This module generates secure data feeds for your products and orders, allowing the Ovesio platform to analyze your business performance in real-time.
 
@@ -34,7 +34,7 @@ Connect your store to Ovesio to unlock powerful capabilities:
 ---
 
 ## Installation
-1.  Download the `ovesio_ecommerce.zip` archive from the [Releases](https://github.com/ovesio/ovesio-ecommerce-magento2/releases) page.
+1.  Download the latest version of `ovesio_ecommerce.zip` from the [Releases](https://github.com/ovesio/ecommerce-intelligence-magento2-module/releases) section.
 2. Extract the content of the downloaded zip archive and upload it using FTP to `app/code/` in your Magento 2 installation.
 3. Enable the module:
     ```bash
