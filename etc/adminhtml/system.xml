@@ -16,7 +16,7 @@
                 </field>
                 <field id="active" translate="label" type="select" sortOrder="10" showInDefault="1" showInWebsite="1" showInStore="1">
                     <label>Status</label>
-                    <source_model>Magento\Config\Model\Config\Source\Yesno</source_model>
+                    <source_model>Ovesio\Ecommerce\Model\Config\Source\Status</source_model>
                 </field>
                 <field id="export_duration" translate="label" type="select" sortOrder="20" showInDefault="1" showInWebsite="1" showInStore="1">
                     <label>Order Export Period</label>

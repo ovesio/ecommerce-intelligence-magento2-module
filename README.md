@@ -1,5 +1,13 @@
 # Ovesio - Ecommerce Intelligence Module for Magento 2
 
+## License and Disclaimer
+This package is released under the **MIT License**.
+We are **not responsible** for any malfunction or improper behavior caused by the use of this package.
+This package is provided as an **example integration**.
+For production-ready integrations, we highly recommend using our official API endpoints and documentation, available at [https://docs.ovesio.com](https://docs.ovesio.com).
+
+---
+
 **Ovesio - Ecommerce Intelligence** empowers your Magento 2 store with advanced AI-driven insights, stock management forecasting, and strategic consulting. This module generates secure data feeds for your products and orders, allowing the Ovesio platform to analyze your business performance in real-time.
 
 ## Features
